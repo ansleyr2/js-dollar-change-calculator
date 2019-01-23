@@ -1,0 +1,19 @@
+
+h1, h2 {
+  font-family: Lato;
+}
+button{
+  margin: 13px 12px 12px 10px;
+  width: 150px
+}
+input{
+  margin: 13px 12px 0px 10px;
+
+}
+.row{
+  margin-left: 0px;
+}
+.err{
+  color: red;
+  align-self: center;
+}
